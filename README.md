@@ -6,3 +6,6 @@ Create a scatter plots to determine trends and insights in data using HTML, CSS,
 The current data set includes data on rates of income, obesity, poverty, etc. by state. The data includes 2014 ACS 1-year estimate: [Factfinder.census.gov](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml).
 
 ## Data visualization
+![Scatter](Images/First_scatter.jpg)
+![Animated scatter](Images/Animated_scatter.gif)
+![Tooltip](Images/Tooltip.gif)
